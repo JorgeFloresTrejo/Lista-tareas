@@ -1,5 +1,6 @@
 import React from "react";
 import Fila from "./Fila";
+import './tablaTareas.css'
 
 
 function TablaTareas({ tareas, actualizarEstado, completadas = false }) {

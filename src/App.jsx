@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import React from 'react'
 import './App.css'
 import Formulario from './componets/Formulario'
-import TablaTareas from './componets/tablaTareas';
+import TablaTareas from './componets/TablaTareas';
 import Visibilidad from './componets/Visibilidad';
 
 function App() {

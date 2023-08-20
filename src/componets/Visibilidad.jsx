@@ -1,5 +1,5 @@
 import React from "react";
-
+import './visibilidad.css'
 function Visibilidad({setMostrarCompletas, eliminarTarea, isChecked}){
 
     const eliminar = () => {
